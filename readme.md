@@ -2,8 +2,6 @@
 
 Este repositório contém meus estudos e implementações de algoritmos baseados no livro **"Entendendo Algoritmos: Um Guia Ilustrado para Programadores e Outros Curiosos"**.
 
-![Capa do Livro](https://www.google.com/imgres?q=capa%20do%20livro%20entendendo%20algoritmos&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A700%2F0*pfC8VwYe0gqmAfaG.jpg&imgrefurl=https%3A%2F%2Fmedium.com%2F%40sschonss%2Fintrodu%25C3%25A7%25C3%25A3o-a-algoritmos-pesquisa-bin%25C3%25A1ria-764ba5a488e2&docid=kvmGyOCW7_caUM&tbnid=YqV3ewhQlu6KYM&vet=12ahUKEwirt_KYlOmJAxXrqpUCHachDRYQM3oECHMQAA..i&w=700&h=603&hcb=2&ved=2ahUKEwirt_KYlOmJAxXrqpUCHachDRYQM3oECHMQAA)
-
 ## Sobre o Livro
 
 "Entendendo Algoritmos" é um livro que explica conceitos fundamentais de algoritmos de uma maneira acessível e visual. Ele é ideal para programadores e qualquer pessoa interessada em aprender mais sobre como os algoritmos funcionam.
