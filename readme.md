@@ -10,11 +10,15 @@ Este repositório contém meus estudos e implementações de algoritmos baseados
 
 - **Capítulo 1:** Introdução aos Algoritmos
 - **Capítulo 2:** Algoritmos de Ordenação
-- **Capítulo 3:** Estruturas de Dados
-- **Capítulo 4:** Algoritmos de Busca
-- **Capítulo 5:** Algoritmos de Grafos
-- **Capítulo 6:** Algoritmos de Programação Dinâmica
-- **Capítulo 7:** Algoritmos de Probabilidade e Estatística
+- **Capítulo 3:** Recursão
+- **Capítulo 4:** Quicksort
+- **Capítulo 5:** Tabelas Hash
+- **Capítulo 6:** Pesquisa em Largura
+- **Capítulo 7:** Algoritmo de Dijkstra
+- **Capítulo 8:** Algoritmos Gulosos
+- **Capítulo 9:** Programação Dinâmica
+- **Capítulo 10:** K-vizinhos mais Próximos
+- **Capítulo 11:** Próximos Passos
 
 ## Como Usar
 
